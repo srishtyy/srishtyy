@@ -1,7 +1,6 @@
 ### Hey there, I'm Srishty :v:
 
-#### I am a Software Engineer from Punjab, India. 
-:computer: [@srishtyy](https://github.com/srishtyy)
+#### I am a Software Engineer from Punjab, India. :computer: [@srishtyy](https://github.com/srishtyy)
 
 A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Learning with expertise in synthesizing broad dimensions of data and research methodologies to identify key business requirements.
 
@@ -18,6 +17,6 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 
 
 #### :chart_with_upwards_trend: My GitHub Stats: 
-[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy)](https://github.com/srishtyy/github-readme-stats)
+[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy)](https://github.com/srishtyy/github-readme-stats)   [![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact)](https://github.com/srishtyy/github-readme-stats)
     
-[![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact)](https://github.com/srishtyy/github-readme-stats)
+
