@@ -33,6 +33,20 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <br>
 
 
+## :1st_place_medal: Badges:
+<p align='center'>
+<a href="https://www.credly.com/badges/694708b0-76e1-431f-9094-0a58e0a116a4/public_url"><img height="200" src="https://github.com/srishtyy/srishtyy/blob/main/cloud-core.png"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/051ddc57-c41c-419b-b75d-a3c75c687947/public_url"><img height="200" src="https://github.com/srishtyy/srishtyy/blob/main/data-analysis-using-python.png"></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/74846b75-be25-4d5b-a3c1-81601a2d1cc7/public_url"><img height="200" src="https://github.com/srishtyy/srishtyy/blob/main/data-science-with-scala.png"></a>&nbsp;&nbsp;
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
 ## :computer: Tools and Technologies: 
 [![Python](https://img.shields.io/badge/Python-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![c++](https://img.shields.io/badge/C++-lightgrey?labelColor=39457E&logo=c&style=for-the-badge&logoColor=white)](https://isocpp.org/)
@@ -54,8 +68,6 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <br>
 <br>
 
-Badges:
-[![Badge](https://www.credly.com/badges/74846b75-be25-4d5b-a3c1-81601a2d1cc7/public_url)](https://www.tensorflow.org/)
 
 ## :chart_with_upwards_trend: My GitHub Stats: 
 [![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy&hide=["issues"]&show_icons=true&theme=radical)](https://github.com/srishtyy/github-readme-stats)    
