@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](<iframe src="https://giphy.com/embed/mJdMQLSD2OnxsHPtGM" width="480" height="76" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mJdMQLSD2OnxsHPtGM">via GIPHY</a></p>)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <p>
   <h1 align="center"><b>Hey there, I'm Srishty 👋</b></h1>
 </p>
