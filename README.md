@@ -23,6 +23,7 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 
 
 #### Find me around the Web🌏: 
+<br>
 <a href="https://www.linkedin.com/in/srishttyy/">
     <img align="left" alt="Srishty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -30,7 +31,7 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <a href="https://www.instagram.com/srishttyy/">
     <img align="left" alt="Srishty | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-
+</br>
 
 
 
