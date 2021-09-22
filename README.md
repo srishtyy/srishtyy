@@ -20,8 +20,6 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 </p>
 
 
-
-
 ## Talking about Personal Stuff: 
 
 - :woman_technologist: I’m currently working at [IBM](https://www.ibm.com/in-en) as a Software Engineer, Analytics.  
@@ -31,7 +29,10 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 - 📄 [Resume](https://drive.google.com/file/d/1CztAxXOd1N-J9yc2UFkyxH3sEOprmxf2/view?usp=sharing)
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 ## :chart_with_upwards_trend: My GitHub Stats: 
