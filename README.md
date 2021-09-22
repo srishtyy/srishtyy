@@ -54,6 +54,8 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <br>
 <br>
 
+Badges:
+[![Badge](https://www.credly.com/badges/74846b75-be25-4d5b-a3c1-81601a2d1cc7/public_url)](https://www.tensorflow.org/)
 
 ## :chart_with_upwards_trend: My GitHub Stats: 
 [![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy&hide=["issues"]&show_icons=true&theme=radical)](https://github.com/srishtyy/github-readme-stats)    
