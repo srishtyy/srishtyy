@@ -1,8 +1,23 @@
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p>
+  <h1 align="center"><b>Hello there, I'm Srishty 👋</b></h1>
+</p>
 
-### Hey there, I'm Srishty 👋
+<p>
+  <h4 align="center"><b>"I am a Software Engineer from Punjab, India. :computer: [@srishtyy](https://github.com/srishtyy)"</b></h4>
+</p>
 
-#### I am a Software Engineer from Punjab, India. :computer: [@srishtyy](https://github.com/srishtyy)
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/srishtyy" />
+</p>
+
+<p align="center">
+<br>
+<a href="https://www.instagram.com/srishttyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/srishttyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:srishttyy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
 
 A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Learning with expertise in synthesizing broad dimensions of data and research methodologies to identify key business requirements.
 
