@@ -23,7 +23,13 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 
 
 #### Find me around the Web🌏: 
-[![Linkedin Badge](https://img.shields.io/badge/-srishty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srishttyy/)](https://www.linkedin.com/in/srishttyy/) 
+<a href="https://www.linkedin.com/in/srishttyy/">
+    <img align="left" alt="Srishty | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  
+<a href="https://www.instagram.com/srishttyy/">
+    <img align="left" alt="Srishty | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
 
 
 
