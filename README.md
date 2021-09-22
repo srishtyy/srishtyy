@@ -1,4 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <p>
   <h1 align="center"><b>Hey there, I'm Srishty 👋</b></h1>
 </p>
@@ -32,8 +31,30 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <br>
 <br>
 <br>
+
+
+## :computer: Tools and Technologies: 
+[![Python](https://img.shields.io/badge/Python-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![c++](https://img.shields.io/badge/C++-lightgrey?labelColor=39457E&logo=c&style=for-the-badge&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-lightgrey?labelColor=276DC3&logo=Java&style=for-the-badge&logoColor=white)](https://www.java.com/)
+[![Julia](https://img.shields.io/badge/Julia-lightgrey?labelColor=3097ba&logo=Julia&style=for-the-badge&logoColor=white)](https://julialang.org/)
+[![Scala](https://img.shields.io/badge/Scala-lightgrey?labelColor=003545&logo=Scala&style=for-the-badge&logoColor=white)](https://www.scala-lang.org/)
+
+<br>
+
+[![scikitlearn](https://img.shields.io/badge/SciKitLearn-lightgrey?labelColor=E34F26&logo=scikitlearn&style=for-the-badge&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-lightgrey?labelColor=F7DF1E&logo=NumPy&style=for-the-badge&logoColor=white)](https://numpy.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-lightgrey?labelColor=4169E1&logo=Pandas&style=for-the-badge&logoColor=white)](https://pandas.pydata.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-lightgrey?labelColor=47A248&logo=OpenCV&style=for-the-badge&logoColor=white)](https://opencv.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-lightgrey?labelColor=008080&logo=OpenCV&style=for-the-badge&logoColor=white)](https://www.tensorflow.org/)
+
+
+<br>
+<br>
 <br>
 
 
 ## :chart_with_upwards_trend: My GitHub Stats: 
-[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy)](https://github.com/srishtyy/github-readme-stats)                    [![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact)](https://github.com/srishtyy/github-readme-stats)
+[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy&hide=["issues"]&show_icons=true)](https://github.com/srishtyy/github-readme-stats)    
+[![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact&hide=["issues"]&show_icons=true)](https://github.com/srishtyy/github-readme-stats)
