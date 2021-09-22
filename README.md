@@ -1,6 +1,6 @@
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <p>
-  <h1 align="center"><b>Hello there, I'm Srishty 👋</b></h1>
+  <h1 align="center"><b>Hey there, I'm Srishty 👋</b></h1>
 </p>
 
 <p>
@@ -20,7 +20,7 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 </p>
 
 
-## Talking about Personal Stuff: 
+## :raising_hand_woman: Talking about Personal Stuff: 
 
 - :woman_technologist: I’m currently working at [IBM](https://www.ibm.com/in-en) as a Software Engineer, Analytics.  
 - 🌱 I’m currently learning Deep Belief Networks and Deep Auto-encoders. 
