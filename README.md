@@ -56,5 +56,6 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 
 
 ## :chart_with_upwards_trend: My GitHub Stats: 
-[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy&hide=["issues"]&show_icons=true)](https://github.com/srishtyy/github-readme-stats)    
-[![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact&hide=["issues"]&show_icons=true)](https://github.com/srishtyy/github-readme-stats)
+[![Srishty's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=srishtyy&hide=["issues"]&show_icons=true&theme=radical)](https://github.com/srishtyy/github-readme-stats)    
+<br>
+[![Most Used Langugages:](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyy&layout=compact&theme=radical)](https://github.com/srishtyy/github-readme-stats)
