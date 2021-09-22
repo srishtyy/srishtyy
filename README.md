@@ -1,4 +1,4 @@
-[![Header]("https://giphy.com/gifs/mJdMQLSD2OnxsHPtGM")](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <p>
   <h1 align="center"><b>Hey there, I'm Srishty 👋</b></h1>
 </p>
