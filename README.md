@@ -4,7 +4,7 @@
 
 <p>
   <h4 align="center"><b>"
-A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Learning with expertise in synthesizing broad dimensions of data and research methodologies to identify key business requirements."</b></h4>
+Seeking a challenging environment that encourages continuous learning of new ideas that would further stimulate my personal and professional growth. I wish to reach the highest echelons with hard work, dedication constant endeavor to perform better and give optimum results."</b></h4>
 </p>
 
 <p align="center">
@@ -15,16 +15,15 @@ A discerning innovator in Data Analysis, Machine Learning Algorithms and Deep Le
 <br>
 <a href="https://www.instagram.com/srishttyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/srishttyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:srishttyy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:srishhtyy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 
 ## :raising_hand_woman: Talking about Personal Stuff: 
 
-- :woman_technologist: I’m currently working at [IBM](https://www.ibm.com/in-en) as a Software Engineer, Analytics.  
-- 🌱 I’m currently learning Deep Belief Networks and Deep Auto-encoders. 
+- :woman_technologist: I’m currently pursuing Masters in Computer Science and Systems at [University of Washington](https://www.washington.edu/). 
 - 💬 Ask me about anything, I am happy to help. 
-- 📫 Reach out to me at [srishttyy@gmail.com](mailto:srishttyy@gmail.com)
+- 📫 Reach out to me at [srishhtyy@gmail.com](mailto:srishhtyy@gmail.com)
 - 📄 [Resume](https://drive.google.com/file/d/1CztAxXOd1N-J9yc2UFkyxH3sEOprmxf2/view?usp=sharing)
 
 
