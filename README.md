@@ -11,21 +11,24 @@ Seeking a challenging environment that encourages continuous learning of new ide
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/srishtyy" />
 </p>
 
-<p align="center">
-<br>
-<a href="https://www.instagram.com/srishttyy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/srishttyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:srishhtyy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
 
 
 ## :raising_hand_woman: Talking about Personal Stuff: 
 
 - :woman_technologist: I’m currently pursuing Masters in Computer Science and Systems at [University of Washington](https://www.washington.edu/). 
-- 💬 Ask me about anything, I am happy to help. 
-- 📫 Reach out to me at [srishhtyy@gmail.com](mailto:srishhtyy@gmail.com)
-- 📄 [Resume](https://drive.google.com/file/d/1CztAxXOd1N-J9yc2UFkyxH3sEOprmxf2/view?usp=sharing)
+- :department_store: I have worked as a Software Engineer at IBM.
+- 📧 Write to me at [srishhtyy@gmail.com](mailto:srishhtyy@gmail.com).
+- 📄 [Resume](https://drive.google.com/file/d/1CztAxXOd1N-J9yc2UFkyxH3sEOprmxf2/view?usp=sharing).
 
+<br>
+<br>
+
+## 📫 Reach out to me: 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/srishttyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:srishhtyy@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
 
 <br>
 <br>
